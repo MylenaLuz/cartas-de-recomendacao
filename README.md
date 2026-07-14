@@ -22,7 +22,7 @@ Centralizar minhas recomendações em um único local, facilitando o acesso por 
 
 Sou **Mylena da Luz Alves**, Desenvolvedora de Software com foco em Front-end, Full Stack, Inteligência Artificial aplicada e desenvolvimento de produtos digitais.
 
-- 💼 LinkedIn: https://linkedin.com/in/mylenaluz
+- 💼 LinkedIn: https://www.linkedin.com/in/mylena-luz-733017176/ 
 - 📧 E-mail: mylenadaluzalves@gmail.com
 
 ---
